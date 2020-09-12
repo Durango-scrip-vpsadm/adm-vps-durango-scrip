@@ -1,0 +1,1 @@
+# adm-vps-durango-scrip
